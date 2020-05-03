@@ -1,1 +1,2 @@
-print("Hello world")
+from myFile import title
+title
