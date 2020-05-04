@@ -1,2 +1,5 @@
-from myFile import title
-title
+B = bytearray(b"spam")
+B.extend(b"eggs")
+print(B)
+B = B.decode()
+print(B)
