@@ -1,5 +1,6 @@
-D = {"a": 1, "b": 2, "c": 3}
-D["z"] = 99
+# D = {'name': {'first': 'bob', 'second': 'smith'},
+#      "jobs": ['dev', 'mgr'],
+#      'age': 22}
+#
+# print(D['jobs'][0])
 
-if "f" not in D:
-    print("missing")
