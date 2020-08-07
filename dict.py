@@ -1,6 +1,4 @@
-# D = {'name': {'first': 'bob', 'second': 'smith'},
-#      "jobs": ['dev', 'mgr'],
-#      'age': 22}
-#
-# print(D['jobs'][0])
+D = {"a": 1, "b": 2, "c": 3}
 
+for key in sorted(D):
+    print(key, "=>", D[key])
