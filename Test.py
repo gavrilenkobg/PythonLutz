@@ -1,5 +1,3 @@
-B = bytearray(b"spam")
-B.extend(b"eggs")
-print(B)
-B = B.decode()
-print(B)
+QA = 2.75 + 18.5 + 3.5 + 3.5 + 13.5 + 10.5 + 1.75 + 2.5
+F = 6 + 24 + 6 + 4.5 +  14 + 8 + 1.5 + 3.5
+print(488 - (QA + F))
