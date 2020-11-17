@@ -1,5 +1,3 @@
-A = ['spam']
-B = A[:]
-B[0] = "shrubbery"
+x = 'spam'.join('s')
 
-print(A)
+print(x)
