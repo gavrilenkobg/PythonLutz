@@ -1,3 +1,8 @@
-import re
-x = re.split('[/.1]', "/usr/home/lumberjack")
-print(x[1:])
+# print('-' * 8)
+
+myjob = 'project manager'
+for char in myjob:
+    print(char, end=' ')
+print('\n')
+
+print('ject' in myjob)
